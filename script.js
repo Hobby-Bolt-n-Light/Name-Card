@@ -1,4 +1,4 @@
-function nonscroll(){
+function nonscroll(e){
    e.preventDefault();
 }
  
