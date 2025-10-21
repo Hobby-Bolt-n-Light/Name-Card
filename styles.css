@@ -79,9 +79,10 @@ body {
 }
 
 #place{
+    font-size: 3vmin;
     padding: 5vmin;
     opacity:50%;
 }
 #place_info{
-    font-size: 5vmin;
+    font-size: 4vmin;
 }
