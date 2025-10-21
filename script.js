@@ -11,5 +11,6 @@ let params = url.searchParams;
 console.log(params.get('id'));
 
 let userName = document.getElementById('friend');
+console.log(userName.innerHTML);
 userName.innerHTML = 'JavaScript'; // innerHTMLでhtmlを追加
 userName.innerHTML = params.get('id'); // innerHTMLでhtmlを追加
